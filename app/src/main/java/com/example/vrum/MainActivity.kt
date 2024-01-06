@@ -56,9 +56,9 @@ class MainActivity : AppCompatActivity() {
 
         transfer_button.setOnClickListener{
             try {
-                var user1_balance_string = user1_balance.text.toString()
-                var user2_balance_string = user2_balance.text.toString()
-                var input_summa_string = input_summma.text.toString()
+//                var user1_balance_string = user1_balance.text.toString()
+//                var user2_balance_string = user2_balance.text.toString()
+//                var input_summa_string = input_summma.text.toString()
 
 
 //                var firstUserBalanceInt = user1_balance_string.toInt()
