@@ -184,16 +184,21 @@
 
         </EditText>
 
-        <Button
+        <TextView
             android:id="@+id/transfer_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/input_summa"
             android:layout_centerInParent="true"
             android:layout_marginTop="10sp"
+            android:width="80sp"
+            android:height="30sp"
             android:background="@drawable/btn_enter_background"
-            android:text="@string/btn_enter_transfer">
+            android:text="@string/btn_enter_transfer"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold">
 
-        </Button>
+        </TextView>
     </RelativeLayout>
 </LinearLayout>

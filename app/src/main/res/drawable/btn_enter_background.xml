@@ -1,5 +1,5 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
-    <corners android:radius="20dp" /> <!-- Здесь 20dp - это радиус углов в пикселях или другой единице измерения -->
+    <corners android:radius="10dp" /> <!-- Здесь 20dp - это радиус углов в пикселях или другой единице измерения -->
     <solid android:color="#9342f5" /> <!-- Задайте нужный цвет фона -->
 </shape>

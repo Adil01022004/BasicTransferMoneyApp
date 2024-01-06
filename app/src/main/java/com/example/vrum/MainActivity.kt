@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var name_msg_sender: Spinner
     private lateinit var name_msg_rcp: Spinner
     private lateinit var input_summma: EditText
-    private lateinit var transfer_button: Button
+    private lateinit var transfer_button: TextView
     private lateinit var username1: TextView
     private lateinit var username2: TextView
     override fun onCreate(savedInstanceState: Bundle?) {
