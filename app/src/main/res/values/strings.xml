@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">vrum</string>
+    <string name="page_name1">Transfer Money</string>
+    <string name="username1">Reze</string>
+    <string name="balance">Balance: </string>
+    <string name="username2">Makima</string>
+    <string name="msg_sender">Message Sender:</string>
+    <string name="msg_rcp">Message Recipient</string>
+    <string-array name="Username">
+        <item>Reze</item>
+        <item>Makima</item>
+    </string-array>
+    <string name="btn_enter_transfer">Transfer</string>
+    <string name="summa_hint">Amount of Money</string>
+</resources>
