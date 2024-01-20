@@ -12,4 +12,7 @@
     </string-array>
     <string name="btn_enter_transfer">Transfer</string>
     <string name="summa_hint">Amount of Money</string>
+    <string name="id">ID: </string>
+    <string name="id_reze">45613</string>
+    <string name="id_makima">54547</string>
 </resources>
